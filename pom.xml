@@ -4,7 +4,7 @@
 
   <groupId>org.avaje.composite</groupId>
   <artifactId>composite-testing</artifactId>
-  <version>3.1</version>
+  <version>3.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <parent>
@@ -15,7 +15,7 @@
 
   <scm>
     <developerConnection>scm:git:https://github.com/avaje-pom/composite-testing.git</developerConnection>
-    <tag>composite-testing-3.1</tag>
+    <tag>HEAD</tag>
   </scm>
   
   <dependencies>
